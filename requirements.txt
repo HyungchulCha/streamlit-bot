@@ -5,4 +5,4 @@ schedule
 streamlit
 requests
 python-dotenv
-ta-lib 
+ta-lib-bin
