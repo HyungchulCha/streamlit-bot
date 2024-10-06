@@ -1,0 +1,6 @@
+python-binance 
+ta-lib 
+numpy 
+pandas
+schedule
+streamlit
